@@ -1,0 +1,9 @@
+/// features for login page 
+1. accept username , password 
+2. login data in session 
+3. redirect to thank u  page 
+4. logout 
+
+
+python m - venv venv 
+venv\Scripts\activate

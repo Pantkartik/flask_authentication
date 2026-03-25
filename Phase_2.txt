@@ -1,0 +1,3 @@
+// to make a dynamic page using the html,css,flask 
+
+form is something which stores data of user and we use it for sending it to the server
